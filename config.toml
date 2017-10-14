@@ -1,6 +1,6 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
-languageCode = "en-us"
+title = "My hugo site"
+baseURL = "https://test.martinlooise.nl"
+languageCode = "nl-NL"
 theme = "ananke"
 
 
